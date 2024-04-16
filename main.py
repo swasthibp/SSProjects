@@ -80,7 +80,7 @@ def fetch_column_data(csv_file, column_name):
                         column_data.append(row[column_name])
             return column_data
 
-file_path = "C:\\Users\\swbp\\Downloads\\network_element_data.txt"
+file_path = "network_element_data.txt"
 start_marker = "----------------------------------"
 end_marker = "---    END"
 result_lines = parse_text_file(file_path)
