@@ -1,0 +1,8 @@
+Local Cell ID,Cell Name,Csg indicator,Uplink cyclic prefix length,Downlink cyclic prefix length,NB-IoT Cell Flag
+1,dummy_cell_1,FALSE,Normal,Normal,FALSE
+2,dummy_cell_2,FALSE,Normal,Normal,FALSE
+3,dummy_cell_3,FALSE,Normal,Normal,FALSE
+5,dummy_cell_4,FALSE,Normal,Normal,FALSE
+6,dummy_cell_5,FALSE,Normal,Normal,FALSE
+7,dummy_cell_6,FALSE,Normal,Normal,FALSE
+13,dummy_cell_7,FALSE,Normal,Normal,FALSE
